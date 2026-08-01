@@ -65,3 +65,4 @@ There are more than 290 good directories where you can submit your startup.
 | 52 | [Saaspo](https://saaspo.com/) | [Submit](https://www.saaspo.com/submit) | SaaS Marketplace | 66649 |
 | 53 | [Technology Evaluation](https://www.technologyevaluation.com) | [Submit](https://www3.technologyevaluation.com/vendor-services-group/home) | SaaS Marketplace | 65453 |
 | 54 | [SoftwareFinder](https://softwarefinder.com/) | [Submit](https://softwarefinder.com/for-vendors) | SaaS Marketplace | 49668 |
+| 55 | [SaaSCity](https://saascity.io/) | [Submit](https://saascity.io/submit) | Launch Platform | 200 |
